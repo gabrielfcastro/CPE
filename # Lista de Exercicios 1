@@ -1,0 +1,117 @@
+# Lista de Exercicios 1
+# Aluno: Gabriel Francisco (202066571)
+ 
+1 - Categorize cada um dos seguintes itens como hardware ou software:
+
+Primeiramente, vamos definir o que é hardware e software. De maneira geral, software está associado aos programas
+do computador, enquanto o hardware está relacionado com os componentes físicos do computador. Sabendo disso,
+podemos fazer as seguintes classificações:
+
+1. CPU --> Hardware
+2. Disco rígido --> Hardware
+3. Programa Word --> Software
+4. Instagram --> Software
+5. Teclado --> Hardware
+
+2 - O que é software e qual sua importância?
+
+Como mencionado anteriormente, software é definido como o conjunto de operações e programas que realizam ações
+nos sistemas de computadores. Nesse sentido, o software é importante para permitir que os computadores realizem
+as tarefas e funções que conhecemos hoje, desde as mais simples até as mais complexas.
+
+3 - Defina com suas próprias palavras o que é algoritmo.
+
+Algoritmo pode ser definido como um conjunto de instruções a serem realizadas para concluir determinado objetivo.
+
+4 - Cite exemplos de software usados na medicina, ciência no entretenimento que você conhece.
+
+Na área da saúde, merecem destaque as IAs que analisam radiografias em busca de tumores malignos. Já na ciência,
+o GNU Radio foi criado para aprimorar a compreensão dos alunos sobre telecomunicações. No campo do entretenimento, 
+jogos populares como League of Legends (LOL) e Valorant são exemplos relevantes.
+
+5 - Quais softwares deixa sua vida mais fácil? Quais deixam sua vida mais complicada?
+
+Entre os softwares que mais auxiliam no meu cotiano a fim de facilita-lo destacam-se o Spotify para entretenimento,
+Waze para navegação e WhatsApp para comunicação. Todavia, tanto o Tik Tok quanto o Instagram merecem destaque de uma
+maneira negativa pelo fato de conseguirem me distrair de maneira muito eficaz em momentos que exigem mais foco.
+
+6 - Considere uma atividade de sua rotina diária. Como a computação está direta ou indiretamente envolvida?
+
+Por exemplo, ao usar o Waze para navegar até o trabalho, a computação está diretamente envolvida no cálculo da rota mais 
+rápida com base no tráfego em tempo real. Enquanto que indiretamente, a computação está envolvida na comunicação dos sinais 
+de trânsito.
+
+7 - A partir de sua experiência pessoal, descreva uma atividade que não seria possível sem computadores.
+
+Se não todas, a maioria das matérias na UnB são cursadas com o auxílio da computação, uma vez que tanto os estudantes quanto 
+os professores utilizam chats online para comunicação, como Teams e Sigaa. Além disso, o acesso facilitado à informação por meio 
+do computador substitui em grande parte a necessidade de visitar a biblioteca em busca de informações, tornando o processo de 
+aprendizado mais eficiente e acessível.
+
+8 - Faça uma Lista programas que você utiliza.
+
+WhatsApp, Instagram, VSCode, Code Composer, Spotify, Waze, Netflix, HBO, entre outros.
+
+9 - Faça uma lista com dez atividades que não utilizam computadores de nenhuma maneira.
+
+1) Ler livros físicos.
+2) Práticas exercícios. 
+3) Dormir.
+4) Jogar jogos de tabuleiro.
+5) Tomar banho.
+6) Beber com os amigos.
+7) Trocar de roupa
+8) Limpar a casa
+9) Passear com o cachorro
+10) Colocar comida para os gatos
+
+10 - Você acha que a inteligência artificial vai acabar com empregos na área da computação? Justifique.
+
+Sim, é importante ressaltar que a inteligência artificial não irá substituir todos os empregos na área, apenas alguns. É parte 
+da história da humanidade que alguns empregos desapareçam, mas surgirão mais empregos na área de computação, e a grande maioria 
+se manterá. As IAs são apenas ferramentas, portanto sempre será necessário que alguém as comande, e nesse momento que entra o 
+profissional de TI.
+
+11 - Descreva a capacidade de seu computador em termos de processamento, memória e armazenamento.
+
+Meu computador é um MacBook Air M2 com 8 GB de mémoria, uma tela de 13.6 polegadas e armazenamento de 500 GB.
+
+12 - Descreva um algoritmo para resolver um cubo mágico.
+
+Para resolver um cúbo mágico é necessário seguir os seguintes passos:
+1) Comece por uma face do cubo e identifique uma peça de canto.
+2) Encontre outra peça de canto que compartilhe uma cor com a primeira peça.
+3) Coloque essas duas peças de canto em suas posições corretas, mesmo que as outras cores não coincidam ainda.
+4) Repita o processo para todas as outras peças de canto no cubo, trabalhando em pares até que todas estejam corretamente posicionadas.
+5) Faça o mesmo para as peças de borda, posicionando-as corretamente em relação às peças de canto já colocadas.
+6) Repita o processo até que todas as peças estejam em suas posições corretas e o cubo esteja resolvido.
+
+13 - Qual a diferença entre bit e byte?
+
+Um bit é a menor unidade de informação, este pode ter o valor de 0 e 1, enquanto bytes são formados por 8 bits.
+
+14 - Como representar números reais usando sistema binário?
+
+A conversão de números decimais em binários é realizada por meio da divisão sucessiva do número decimal por 2, anotando-se o resto de cada 
+divisão e invertendo a ordem deles para obter a representação binária do número
+
+15 - Descreva os passos para converter o número decimal 150 para sua representação em binário.
+
+150/2 = 75 (Resto 0) --> 75/2 = 37 (Resto 1) --> 37/2 = 18 (Resto 1) --> 18/2 = 9 (Resto 0) --> 9/2 = 4 (Resto 1) --> 4/2 = 2 (Resto 0) 
+--> 2/2 = 1 (Resto 0) --> 1/2 = 0 (Resto 1)
+Agora lendo os números de trás para frente, obtemos: 10010110
+
+16 - Descreva o papel do scrum master, dono do produto e do time de desenvolvimento. 
+
+O Scrum Master é responsável por facilitar o trabalho da equipe garantidos que esses sigam os princípios e práticas do SCRUM, enquanto o Dono do 
+Produto define as necessidades do produto e o Time de Desenvolvimento cria o produto.
+
+17 - Descreva os comandos para mover, copiar, e remover arquivos usando linha de comando no sistema operacional que você utiliza.
+
+Para mover um arquivo: mv arquivo.txt destino/
+Para copiar um arquivo: cp arquivo.txt destino/
+Para remover um arquivo: rm arquivo.txt
+
+18 - Qual o padrão IEEE para redes WiFi? E para o Bluetooth?
+
+O padrão IEEE para redes Wifi é o 802.11, enquanto para o Bluetooth é 802.15.
